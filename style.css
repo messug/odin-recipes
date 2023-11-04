@@ -3,3 +3,9 @@ style {
    border: 15px;
    font-family: 'cinzel',serif;
 }
+.hre{
+   background-color: azure;
+   font-family: monospace;
+   font-weight: 100px;
+   border: goldenrod;
+}
